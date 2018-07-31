@@ -2,4 +2,4 @@
 
 print('Hello world!')
 print('Second line')
-print("Third line added on github, not committed")
+print("Third line added on github, committed")
